@@ -1,0 +1,7 @@
+name: pibooth
+
+dependencies:
+- python=3.6
+- numpy
+- matplotlib=2.1.1
+- iris
